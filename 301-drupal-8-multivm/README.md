@@ -1,0 +1,1 @@
+# Deployment of multinode drupal8 vms, with reverse proxy caching
